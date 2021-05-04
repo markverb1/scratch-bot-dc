@@ -1,2 +1,2 @@
 # scratch-bot-dc
-This is a Discord bot I'm working on. 
+This is a Discord bot I'm not working on. 
